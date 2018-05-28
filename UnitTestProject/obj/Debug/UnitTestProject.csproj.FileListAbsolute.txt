@@ -1,0 +1,7 @@
+D:\game c#\Paint\UnitTestProject\bin\Debug\UnitTestProject.dll
+D:\game c#\Paint\UnitTestProject\bin\Debug\UnitTestProject.pdb
+D:\game c#\Paint\UnitTestProject\bin\Debug\Paint.exe
+D:\game c#\Paint\UnitTestProject\bin\Debug\Paint.pdb
+D:\game c#\Paint\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+D:\game c#\Paint\UnitTestProject\obj\Debug\UnitTestProject.dll
+D:\game c#\Paint\UnitTestProject\obj\Debug\UnitTestProject.pdb
